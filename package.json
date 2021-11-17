@@ -1,0 +1,15 @@
+{
+  "name": "astro-latex",
+  "version": "0.3.2",
+  "description": "LaTeX component for Astro",
+  "main": "src/index.js",
+  "author": "Timur Badretdinov <destinerx@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Destiner/astro-latex.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "katex": "^0.15.1"
+  }
+}
