@@ -1,4 +1,4 @@
-# astro-latex
+# Astro LaTeX
 
 LaTeX component for Astro. Powered by [katex](https://katex.org). Works both in `.astro` and `.md` files.
 
