@@ -4,6 +4,10 @@
   "description": "LaTeX component for Astro",
   "main": "src/index.js",
   "author": "Timur Badretdinov <destinerx@gmail.com>",
+  "keywords": [
+    "astro-component",
+    "latex"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/Destiner/astro-latex.git"
